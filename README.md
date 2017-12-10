@@ -1,0 +1,2 @@
+# GitTest
+Első teszt repo.
